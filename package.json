@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "google-map-marker": "^1.2.3",
+    "google-map-react": "^2.2.0"
+  }
+}
